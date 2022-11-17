@@ -1,0 +1,24 @@
+{
+  "name": "careymedical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fenmora/careyMedical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fenmora/careyMedical/issues"
+  },
+  "homepage": "https://github.com/Fenmora/careyMedical#readme",
+  "dependencies": {
+    "cypress": "^11.1.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
